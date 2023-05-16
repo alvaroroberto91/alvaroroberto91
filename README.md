@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alvaroroberto91
-- 👀 I’m interested in Node.JS, MongoDB, TypeORM
-- 🌱 I am proficient in Node development
+- 🌱 I'm proficient in Node development
 - 📫 How to reach me: Send me a mensage in "alvarorfc@outlook.com.
 
 <!---
